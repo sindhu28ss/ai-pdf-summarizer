@@ -28,6 +28,11 @@ The summarization process follows these steps:
 - Supports Large PDFs – Ideal for reports, research papers, and business documents.
 
 ## Demo
+
+<p align="center">
+  <!-- Screenshot -->
+  <img src="https://github.com/sindhu28ss/ai-pdf-summarizer/blob/main/files/pdf%20summarizer.png?raw=true" width="800"/>
+</p>
 👉 [Click here to watch the demo](https://github.com/sindhu28ss/ai-pdf-summarizer/blob/main/files/ai-pdf-summarizer-video.mov)
 
 
