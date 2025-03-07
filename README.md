@@ -27,3 +27,7 @@ The summarization process follows these steps:
 - User-Friendly Interface – Simple and intuitive UI built with Streamlit.
 - Supports Large PDFs – Ideal for reports, research papers, and business documents.
 
+## Demo
+👉 [Click here to watch the demo](https://github.com/sindhu28ss/ai-pdf-summarizer/blob/main/files/ai-pdf-summarizer-video.mov)
+
+
