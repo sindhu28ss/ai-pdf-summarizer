@@ -1,11 +1,3 @@
-# BUSINESS SCIENCE UNIVERSITY
-# PYTHON FOR GENERATIVE AI COURSE
-# CHALLENGE - CREATE A CALL REPORT APP
-# ***
-# GOAL: Exposure to using LLM's, Document Loaders, and Prompts
-
-# streamlit run 04-Bonus-Streamlit-App/01_bonus_call_report_app_pdf_download.py
-
 import yaml
 import streamlit as st
 
@@ -129,6 +121,4 @@ if uploaded_file and summarize_flag:
 else:
     with col2:
         st.write("No file uploaded. Please upload a PDF file to proceed.")
-
-
 
