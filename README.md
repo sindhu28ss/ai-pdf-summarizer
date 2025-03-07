@@ -1,4 +1,7 @@
 # AI-PDF-Summarizer
+<p align="center">
+  <img src="assets/pdf-image.png" alt="PDF Summarizer Illustration" width="400"/>
+</p>
 PDF Document Summarizer is an AI-powered tool that extracts and summarizes text from PDFs, allowing users to quickly grasp key insights without reading the entire document.
 Built using Streamlit, OpenAI’s GPT model, LangChain, and PyPDF, this app processes large documents efficiently and provides an option to download the summary as a PDF.
 
