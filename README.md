@@ -1,6 +1,6 @@
 # AI-PDF-Summarizer
 <p align="center">
-  <img src="https://github.com/sindhu28ss/ai-pdf-summarizer/blob/main/files/pdf%20image.png?raw=true" 
+  <img src="https://github.com/sindhu28ss/ai-pdf-summarizer/blob/main/files/pdf-summarizer.jpg" 
        alt="PDF Summarizer Illustration" width="300"/>
 </p>
 
